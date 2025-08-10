@@ -220,4 +220,4 @@ bc5.prepare()  # writes ./output/dev_set_preprocessed.json
 ## Acknowledgments
 
 - Thanks to the BC5CDR organizers and dataset authors.
-- This converter was authored by <your-name>.
+- This converter was authored by [Mahdi Khoshmaram](https://github.com/mahdi-khoshmaram).
