@@ -213,7 +213,6 @@ bc5.prepare()  # writes ./output/dev_set_preprocessed.json
 ## Citing & License
 
 - **Dataset:** If you use BC5CDR, please cite the original paper and follow their license and usage terms:
-  - BC5CDR task: *BioCreative V Chemical–Disease Relation Task.* ([task page](https://biocreative.bioinformatics.udel.edu/tasks/biocreative-v/track-3-cdr/))
 - **Code:** Unless you choose otherwise, this converter is released under the MIT License (see `LICENSE`).
 
 ---
