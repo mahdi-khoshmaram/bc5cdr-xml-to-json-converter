@@ -41,8 +41,6 @@ It supports:
   - `CDR_DevelopmentSet.BioC.xml`
   - `CDR_TestSet.BioC.xml`
 
-> ⚠️ **Paths are hardcoded** to a Windows drive in the script. See [Usage](#usage) for how to change them.
-
 ### Output (produced)
 - One JSON per split, written to `output/` (configurable via code):
   - `train_set_preprocessed.json`
